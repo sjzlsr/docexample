@@ -3,18 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to doc_cn's documentation!
+欢迎来到sjzlsr的文档
 ==================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 快速开始
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   overview
